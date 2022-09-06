@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.2",
+    "dependencies": "^0.0.1",
+    "gray-matter": "^4.0.3",
+    "install": "^0.13.0",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1",
+    "to": "^0.2.9"
+  },
+  "devDependencies": {
+    "sass": "^1.54.8"
+  }
+}
